@@ -1,0 +1,54 @@
+# ============================================
+# ROBOTS.TXT
+# ============================================
+# File ini mengatur crawler search engine
+# Edit untuk mengatur akses ke direktori tertentu
+# ============================================
+
+User-agent: *
+Allow: /
+
+# Disallow folder internal (bukan asset publik)
+# CATATAN: /assets/ TIDAK diblock agar Googlebot bisa render tampilan website
+Disallow: /includes/
+Disallow: /templates/
+Disallow: /config/
+
+# Disallow file internal / halaman bukan publik
+Disallow: /generate-sitemap.php
+Disallow: /panduan-menambah-konten.php
+
+# Sitemap location
+Sitemap: https://academy.digipulsapay.com/sitemap.xml
+
+# Crawl delay untuk mengurangi beban server
+Crawl-delay: 1
+
+# ============================================
+# SPESIFIC RULES
+# ============================================
+
+# Allow Googlebot to crawl everything
+User-agent: Googlebot
+Allow: /
+
+# Allow Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Allow Yandex
+User-agent: Yandex
+Allow: /
+
+# ============================================
+# BLOCK UNWANTED BOTS
+# ============================================
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+============================================
+SITEMAP.XML - DigiPulsaPay Academy
+============================================
+DIBUAT OTOMATIS oleh generate-sitemap.php
+Tanggal: 2026-08-10 08:05:09
+Total URL: 309
+============================================
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://academy.digipulsapay.com/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tentang-kami.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/kontak.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/sitemap.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/privacy-policy.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/disclaimer.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/syarat-ketentuan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/faq/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/kamus/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/komunitas/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tools/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/download-center/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/glosarium/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-downline.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-paket-data-internet.php</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-ppob-dan-manfaatnya.php</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-ppob.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-pulsa-elektrik.php</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-qris-merchant.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-saldo-deposit.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-server-pulsa.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/apa-itu-token-listrik-pln.php</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/cara-kerja-agen-pulsa.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/cara-kerja-transaksi-ppob.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/cara-membangun-kepercayaan-pelanggan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/cara-memulai-bisnis-pulsa.php</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/cara-menentukan-harga-jual.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/cara-mengelola-keuangan-agen.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/cara-meningkatkan-omzet-agen.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/ekosistem-layanan-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/istilah-ppob.php</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/kesalahan-umum-agen-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/keuntungan-agen-ppob.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/manfaat-aplikasi-ppob-untuk-konter.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/manfaat-memiliki-downline.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/masa-depan-bisnis-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengapa-agen-membutuhkan-saldo-deposit.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengapa-bisnis-pulsa-tidak-pernah-sepi.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengapa-umkm-membutuhkan-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-cashback-dalam-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-e-wallet-di-indonesia.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-layanan-pascabayar.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-layanan-prabayar.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-margin-dan-komisi-agen.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-mini-atm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-sistem-transaksi-online.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-top-up-digital.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-virtual-account.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/mengenal-voucher-fisik-dan-digital.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/peluang-bisnis-digital-payment.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/peluang-bisnis-ppob-di-indonesia.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/peluang-menjadi-digipartner-edc.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/pentingnya-pelayanan-bagi-agen-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/pentingnya-reputasi-dalam-bisnis-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/peran-agen-ppob-di-era-digital.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/perbedaan-ppob-dan-payment-gateway.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/perbedaan-pulsa-reguler-dan-transfer-pulsa.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/produk-digital-paling-laris.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/produk-ppob-yang-paling-diminati.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/strategi-mengembangkan-bisnis-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/template.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/artikel/tren-pembayaran-digital-di-indonesia.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/agenda-digipulsapay-bulan-ini.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/digicoin.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/digipartner-edc-resmi-dibuka.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/digipulsa-academy-resmi-diluncurkan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/digipulsapay-hadir-di-kota-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/event-offline-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/event-online-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/informasi-gangguan-bank.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/informasi-gangguan-layanan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/informasi-gangguan-provider.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/jadwal-layanan-customer-service.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/jadwal-libur-operasional.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/jadwal-maintenance-sistem.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/kerja-sama-digipulsapay-dengan-mitra.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/kilas-balik-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/live-edukasi-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/pelatihan-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/penambahan-bank-deposit.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/penambahan-fitur-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/penambahan-metode-deposit.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/penambahan-produk-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/penambahan-provider-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/pengumuman-balapan-transaksi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/pengumuman-pemenang-giveaway.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/pengumuman-penting-untuk-agen.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/pengumuman-sertifikasi-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/pengumuman-undian-ulasan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/penyesuaian-harga-produk.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/perbaikan-bug-sistem.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/peresmian-digipartner-batch-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/perubahan-kebijakan-layanan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/program-csr-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/program-digicoin-segera-hadir.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/program-digipartner.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/promo-akhir-tahun.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/promo-bulan-februari.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/promo-bulan-januari.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/promo-bulan-maret.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/promo-hari-kemerdekaan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/promo-idul-fitri.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/promo-ramadhan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/rekap-kegiatan-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/roadmap-pengembangan-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/seminar-mini-atm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/statistik-pertumbuhan-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/template.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/testimoni-agen-terbaik.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/top-agen-bulan-ini.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/update-aplikasi-digipulsapay-versi-terbaru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/update-dashboard-baru.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/update-harga-produk.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/update-sistem-deposit.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/update-sistem-qris.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/berita/webinar-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/buku-panduan-agen-pemula.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/katalog-produk-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/kumpulan-faq-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-anti-penipuan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-bisnis-mini-atm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-bisnis-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-bisnis-rumahan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-closing-penjualan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-copywriting.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-digital-marketing.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-digital-payment.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-keamanan-akun.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-loyalitas-pelanggan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-manajemen-keuangan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-pelayanan-pelanggan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-pengembangan-downline.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-pengembangan-usaha.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-produk-digital.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-qris-merchant.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/modul-umkm-digital.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-bisnis-konter.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-bisnis-pulsa-dari-nol.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-customer-service.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-deposit.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-digicoin-rewards.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-event-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-lengkap-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-mengembangkan-omzet.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-menjadi-agen-premium.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-menjadi-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-mini-atm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-produk-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-promosi-offline.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-promosi-online.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-qris-merchant.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-referral.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/panduan-transaksi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/sop-agen-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/sop-deposit.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/sop-penanganan-komplain.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/sop-transaksi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-balasan-customer-service.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-banner-konter.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-broadcast-whatsapp.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-brosur.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-caption-promosi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-feed-instagram.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-spanduk.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template-story-whatsapp.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/ebook/template.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/bonus-deposit.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/cashback-deposit.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/flash-sale-produk-digital.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-agen-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-akhir-tahun.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-anniversary-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-axis.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-balapan-transaksi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-biznet.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-bonus-topup-juli.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-bpjs.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-cashback-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-e-wallet.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-event-webinar.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-first-media.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-giveaway.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-hari-kemerdekaan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-idul-fitri.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-indosat.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-internet-rumah.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-konter-pulsa.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-merchandise.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-mini-atm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-multifinance.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-myrepublic.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-paket-data.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-payday.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-pdam.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-pelanggan-setia.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-pulsa-murah.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-pulsa-telkomsel.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-qris-merchant.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-ramadhan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-referral.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-seminar.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-smartfren.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-spesial-member.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-tahun-baru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-token-pln.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-top-up-game.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-transfer-bank.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-tri.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-tv-kabel.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-ulasan-aplikasi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-umkm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-upgrade-premium.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-voucher-game.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-weekend.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/promo-xl.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/promo/template.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/cara-menarik-pelanggan.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/cara-promosi-bisnis-pulsa.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/kesalahan-umum-agen-pulsa.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/manajemen-keuangan-agen.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/strategi-harga-jual.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/template.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-deposit-aman.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-melayani-pelanggan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-memanfaatkan-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-membuat-banner-menarik.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-membuat-password-aman.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-memilih-produk-terlaris.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-memulai-bisnis-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-menambah-omzet.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-mendapat-pelanggan-pertama.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-menentukan-harga-jual.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-mengatur-keuangan-konter.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-mengembangkan-downline.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-menghadapi-komplain.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-menghindari-penipuan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-meningkatkan-rating-aplikasi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-menjaga-pelanggan-tetap-loyal.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-promosi-di-facebook.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-promosi-di-instagram.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-promosi-di-tiktok.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-promosi-di-whatsapp.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tips/tips-sukses-bisnis-pulsa.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-bayar-bpjs.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-bayar-pdam.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-bayar-tagihan-bulanan.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-bayar-tv-kabel.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-beli-token-pln.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-cetak-struk.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-daftar-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-daftar-qris-merchant.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-deposit-saldo.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-download-laporan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-edit-harga-jual.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-login-digipulsapay.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-login.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-melihat-riwayat-transaksi.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-membuat-tiket-bantuan.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-mengajak-downline.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-mengganti-password.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-menggunakan-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-menghubungi-customer-service.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-mengubah-nomor-hp.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-mengubah-pin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-menjadi-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-menjual-mini-atm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-menukarkan-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-pembelian-voucher-game.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-tarik-bonus-komisi.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-top-up-e-wallet.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-transaksi-paket-data.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-transaksi-pulsa.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-transfer-saldo.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/cara-upgrade-premium.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/tutorial/template.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-bayar-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-daftar-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-daftar-qris-merchant.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-deposit-saldo.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-mendapat-digicoin.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-menjadi-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-menjual-mini-atm.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-transaksi-paket-data.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/cara-transaksi-pulsa.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/demo-fitur-terbaru.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/kisah-sukses-digipartner.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/live-tanya-jawab.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/pelatihan-customer-service.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/pelatihan-promosi-online.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/rekaman-seminar.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/template.php</loc>
+        <lastmod>2026-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/testimoni-agen-sukses.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/video-perkenalan-digipulsapay.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/video-tips-bisnis.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/webinar-bisnis-ppob.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://academy.digipulsapay.com/video/webinar-digital-payment.php</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
